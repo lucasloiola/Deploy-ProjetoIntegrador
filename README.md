@@ -1,8 +1,8 @@
 <h2>Status</h2>
-<a href="https://raizes-dela.herokuapp.com/home">✅Pronto✅</a> (aguarde novas atualizações...)
+<a href="https://raizes-dela.herokuapp.com/home" target="_blank">✅Pronto✅</a> (aguarde novas atualizações...)
 
 <p align="center">
-<a href="https://raizes-dela.herokuapp.com/home">
+<a target="_blank" href="https://raizes-dela.herokuapp.com/home">
   <img src="https://user-images.githubusercontent.com/72114647/112768649-59b82f80-8ff3-11eb-9453-a14ca99adaec.png" alt="Raízes dela image"/>
   </a>
 </p>
@@ -25,7 +25,7 @@ Projeto integrador proposto pelo bootcamp Generation Brasil, para finalizar o cu
 - [x] Swagger
 - [x] Segurança de dados
 - [x] UsuarioService
-- [x] <a href="https://raizes-dela.herokuapp.com/home">Deploy</a>
+- [x] <a target="_blank" href="https://raizes-dela.herokuapp.com/home">Deploy</a>
 
 
 <h4>Implementações futuras</h4>
